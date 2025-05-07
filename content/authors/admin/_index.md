@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Science Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Xiamen University
+    url: https://www.researchgate.net/profile/Futian-Weng?ev=hdr_xprf
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,36 +48,37 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Applied Mathematics
+  - Healthcare
+  - -FinTech
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Health Big Data and Intelligent Medicine
+    institution: Xiamen University
+    date_start: 2021-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Statistics
+    institution: Central South University
+    date_start: 2017-09-01
+    date_end: 2020-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.7/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Information and Computing Science
+    institution: Central South University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weng Futian is a Ph.D. candidate in the School of Medicine and the National Research Institute of Health and Medical Big Data at Xiamen University, as well as a member of the Data Mining Research Center at Xiamen University, under the guidance of Professor Zhu Jianping. I completed my undergraduate and master's degrees at the School of Mathematics and Statistics, Central South University, and joined the Data Mining Research Center at Xiamen University in September 2021. I have published several academic papers in SCI/SSCI journals such as Expert Systems with Applications, Neural Processing Letters, Soft Computing, Journal of Digital Imaging, Annals of Biomedical Engineering, and Resources Policy. I have also written multiple working papers. I have led one undergraduate innovation and entrepreneurship project and participated in several national and provincial-level projects, including major social science projects and key projects. In addition, I serve as a reviewer for journals such as International Review of Financial Analysis, Resource Policy, Expert Systems with Applications, and Financial Innovation. My current research interests include information systems, functional data analysis, medical image processing, explainable artificial intelligence, and research on machine learning and deep learning algorithms and their applications.
