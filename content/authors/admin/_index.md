@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Data Science Research
+role: Data Science Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
