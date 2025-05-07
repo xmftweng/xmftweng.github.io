@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 翁福添
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Futian Weng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Futian
+last_name: Weng
 
 # Status emoji
 status:
